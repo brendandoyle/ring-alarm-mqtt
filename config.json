@@ -5,6 +5,9 @@
   "description": "Ring Alarm Plugin",
   "startup": "before",
   "boot": "auto",
+  "arch": [
+	  "amd64"
+  ],
   "options": {
       "host": "localhost",
       "port": "1883",
